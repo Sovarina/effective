@@ -7,6 +7,18 @@ transform: rotate(-180deg);
 transform-origin: center;
 transition: transform .5s linear;
 }
+Анимация
+https://webref.ru/css/animation-direction
+
+https://webref.ru/css/import
+https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+https://developer.mozilla.org/en-US/docs/Web/CSS/@import
+@supports (display: flex)
+https://developer.mozilla.org/ru/docs/Web/CSS/@media
+
+https://webref.ru/html/select
+https://webref.ru/html/input/type
+https://ruseller.com/lessons.php?rub=2&id=711
 
 https://www.moskvarium.ru/
 http://www.krepiz.ru/

@@ -1,0 +1,13 @@
+display: flex;
+flex-wrap: wrap;
+
+gap (grid-gap) промежутки между картинками 
+https://developer.mozilla.org/ru/docs/Web/CSS/gap
+
+теги в стилях без .
+
+со скетчами работаем в figma и  lunacy
+https://icons8.ru/lunacy
+https://www.figma.com/
+https://www.markupeasy.ru/
+Zeplin

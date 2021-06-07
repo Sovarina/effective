@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Порядок создания репозитория
 1. Создаем каталог
 git init  создаёт в текущем каталоге новый подкаталог с именем .git
@@ -24,3 +25,29 @@ git commit -a -m "КОММЕНТАРИЙ"
 git push --set-upstream origin <ИМЯ ВЕТКИ>
 если в эту ветку уже пушили, команда
 git push
+=======
+https://webref.ru/css/transform
+https://webref.ru/css/transition
+Переход анимации <div class="whirlpool"></div>
+
+.whirlpool:hover:after {
+transform: rotate(-180deg);
+transform-origin: center;
+transition: transform .5s linear;
+}
+Анимация
+https://webref.ru/css/animation-direction
+
+https://webref.ru/css/import
+https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Using_CSS_animations
+https://developer.mozilla.org/en-US/docs/Web/CSS/@import
+@supports (display: flex)
+https://developer.mozilla.org/ru/docs/Web/CSS/@media
+
+https://webref.ru/html/select
+https://webref.ru/html/input/type
+https://ruseller.com/lessons.php?rub=2&id=711
+
+https://www.moskvarium.ru/
+http://www.krepiz.ru/
+>>>>>>> pozitive

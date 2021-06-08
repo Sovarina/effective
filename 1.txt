@@ -1,0 +1,50 @@
+https://zeplin.io/
+psd марси
+https://sympli.io/
+https://avocode.com/
+
+JS
+переменные:
+var
+let
+const - константа
+undefined - придание значение
+== равенство
+=присвоение
+!= не равно
+&& и
+|| или 
+true истина
+false  ложь
+2 == 2 true
+2 == 3 false
+
+(true && true) == true
+(true && false) == false
+(false && true) == false
+(false && false) == false
+
+(true || true) == true
+(true || false) == true
+(false || true) == true
+(false || false) == false
+
+a++ больше на 1
+++a  исходное значение
+b--  меньше на 1
+--b      исходное значение
+a + b     возвращает значение
+c =       возвращает значение
+let       возвращает undefined
+
+Math.random(аргумент)     рандомное число
+
+Правила приведения типов
+
+если + и какое-то слогаемое строка - второе превращается в строку
+если + и среди слагаемых нет строк, не-числа приводяться к числам (true -> 1, false -> 0)
+если математический оператор и один операнд NaN - результат будет NaN
+
+null ничего, пустота
+
+undefined неизвестность

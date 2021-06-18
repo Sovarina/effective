@@ -47,7 +47,8 @@ a {
 	/*flex: none; вариант 1 */
 }
 .fakebutton:hover {
-	
+	background: gold;
+	color: blue;
 }
 
 /* footer */
